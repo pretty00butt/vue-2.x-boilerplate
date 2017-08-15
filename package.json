@@ -1,9 +1,9 @@
 {
   "name": "Vue 2.x Boilerplate",
   "version": "1.0.0",
-  "description": "A Vue.js project with Vuex, vue-router, vue-resource",
-  "author": "",
-  "private": true,
+  "description": "A Vue.js project with Vuex, vue-router and Bulma, vue-resource",
+  "author": "Hoony Chang <hoonch3@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
